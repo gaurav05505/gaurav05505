@@ -9,6 +9,8 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 ```
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9B71&center=true&vCenter=true&width=600&lines=Building+real-world+products+%F0%9F%9A%80;Design+%2B+Logic+%2B+Intelligence+%E2%9C%A8;Currently+crafting+Collabrix+%F0%9F%94%A5;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
@@ -84,10 +86,6 @@ const gaurav = {
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0d9b71&icon_color=0d9b71"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav05505&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0d1117&title_color=0d9b71"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav05505&theme=merko&hide_border=true&background=0d1117&ring=0d9b71&fire=ff9500&currStreakLabel=0d9b71" alt="streak stats"/>
@@ -101,13 +99,6 @@ const gaurav = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav05505&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</div>
-
----
 
 ### 🚀 Currently Working On
 
