@@ -23,10 +23,10 @@
 ```javascript
 const gaurav = {
   role: ["UI/UX Designer", "Web Dev", "Gen AI Learner"],
-  currentProject: "Collabrix 🚀",
+  currentProject: "Collabrix ",
   learning: "Backend Development",
   askMeAbout: ["UI/UX", "React", "AI", "DSA", "Apps"],
-  funFact: "I think I can make code laugh 😄",
+  funFact: "I think I can make code laugh ",
   contact: "Gouravkumar42242@gmail.com",
   openTo: "Collaborations & Opportunities"
 };
