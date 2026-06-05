@@ -1,134 +1,211 @@
 <div align="center">
 
-```
- ██████╗  █████╗ ██╗   ██╗██████╗  █████╗ ██╗   ██╗
-██╔════╝ ██╔══██╗██║   ██║██╔══██╗██╔══██╗██║   ██║
-██║  ███╗███████║██║   ██║██████╔╝███████║██║   ██║
-██║   ██║██╔══██║██║   ██║██╔══██╗██╔══██║╚██╗ ██╔╝
-╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
-```
+<img src="https://avatars.githubusercontent.com/gaurav05505" width="180" style="border-radius:50%;" />
 
-<br>
+# 👋 Hi, I'm Gaurav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9B71&center=true&vCenter=true&width=600&lines=Building+real-world+products+%F0%9F%9A%80;Design+%2B+Logic+%2B+Intelligence+%E2%9C%A8;Currently+crafting+Collabrix+%F0%9F%94%A5;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D)](https://git.io/typing-svg)
+### UI/UX Designer • Full Stack Developer • Gen AI Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+real-world+products+🚀;Crafting+beautiful+interfaces+✨;Exploring+AI+%2B+Automation+🤖;Currently+building+Collabrix+🔥;Open+to+collaborations+💡" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f172a,100:06b6d4&height=220&section=header&text=GAURAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
+# ✨ About Me
 
-### 👨‍💻 About Me
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
 
 ```javascript
 const gaurav = {
-  role: ["UI/UX Designer", "Web Dev", "Gen AI Learner"],
-  currentProject: "Collabrix ",
-  learning: "Backend Development",
-  askMeAbout: ["UI/UX", "React", "AI", "DSA", "Apps"],
-  funFact: "I think I can make code laugh ",
-  contact: "Gouravkumar42242@gmail.com",
-  openTo: "Collaborations & Opportunities"
+  role: [
+    "UI/UX Designer",
+    "Frontend Developer",
+    "Gen AI Explorer"
+  ],
+
+  currentProject: "Collabrix",
+
+  currentlyLearning: [
+    "Backend Development",
+    "System Design",
+    "AI Agents"
+  ],
+
+  techStack: [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "TailwindCSS",
+    "Python"
+  ],
+
+  askMeAbout: [
+    "UI/UX",
+    "Frontend",
+    "AI",
+    "React",
+    "DSA"
+  ],
+
+  funFact:
+   "I turn caffeine into scalable interfaces ☕"
 };
 ```
 
-<br clear="right"/>
+</td>
 
----
+<td width="45%">
 
-### 🔗 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-829829349/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gouravkumar42242/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gouravkumjwo6)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gaurav)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gouravkumar42242@gmail.com)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🌐 Connect With Me
 
 <div align="center">
 
-**Frontend**
+<a href="https://www.linkedin.com/in/gaurav-829829349/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://leetcode.com/u/gouravkumar42242/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
 
-**Backend & DB**
+<a href="https://www.geeksforgeeks.org/profile/gouravkumjwo6">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://dev.to/gaurav">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
 
-**Design & DevTools**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Languages**
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="mailto:Gouravkumar42242@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
+# ⚒️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav05505&theme=merko&hide_border=true&background=0d1117&ring=0d9b71&fire=ff9500&currStreakLabel=0d9b71" alt="streak stats"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css"/>
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+<br/><br/>
+
+### 🎯 Design & Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman"/>
+
+<br/><br/>
+
+### 🧠 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav05505&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=f59e0b&currStreakLabel=ffffff"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=0d9b71&line=0d9b71&point=ffffff&area=true&hide_border=true" width="95%" alt="activity graph"/>
-</div>
 
----
-
-
-### 🚀 Currently Working On
-
-<div align="center">
-
-| Project | Status | Tech |
-|--------|--------|------|
-| **Collabrix** | 🔨 In Development | React · Node.js · MongoDB |
-| **Backend Mastery** | 📚 Learning | Express · REST APIs · Auth |
-| **DSA Grind** | ⚔️ Active | C++ · LeetCode · GFG |
-| **Gen AI Projects** | 🤖 Exploring | Python · LLMs · Agents |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-### ⚡ Fun Fact
-
-> *"I think I can make code laugh — debugging is just stand-up comedy for computers."*
-
----
+# 🚀 Current Focus
 
 <div align="center">
 
-### 👀 Profile Views
+| 🚧 Project | ⚡ Status | 🛠️ Tech |
+|---|---|---|
+| **Collabrix** | 🔥 Building | React · Node · MongoDB |
+| **Backend Mastery** | 📚 Learning | Express · APIs · Auth |
+| **DSA Grind** | ⚔️ Active | C++ · LeetCode |
+| **Gen AI Projects** | 🤖 Exploring | Python · LLMs |
 
-![](https://komarev.com/ghpvc/?username=gaurav05505&color=0d9b71&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9b71,100:0f3443&height=120&section=footer" width="100%"/>
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav05505&theme=radical&no-frame=true&margin-w=12&margin-h=12"/>
+
+</div>
+
+---
+
+# 📈 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+### *"Good design creates trust. Great engineering creates impact."*
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gaurav05505&style=for-the-badge&color=7c3aed"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f172a,100:06b6d4&height=150&section=footer"/>
 
 </div>
