@@ -1,67 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:7c3aed,70:06b6d4,100:0ea5e9&text=GAURAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ⚡ GAURAV.EXE
 
-<img src="https://avatars.githubusercontent.com/gaurav05505" width="130" style="border-radius:50%; border:4px solid #7c3aed;" />
+```txt
+╔══════════════════════════════════════════════════════╗
+║  Designing Interfaces • Building Systems • AI ⚡   ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+products+with+energy+⚡;UI%2FUX+Designer+%2B+Developer+🔥;Crafting+Collabrix+🚀;Turning+ideas+into+experiences+✨)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+✨;Full+Stack+Developer+⚡;AI+Explorer+🤖;Building+Collabrix+🚀;Designing+future-ready+products+🔥"/>
+<br>
 
-<br><br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Focus-Product%20Development-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-MERN-06b6d4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-AI%20Agents-a855f7?style=for-the-badge"/>
-</p>
+![STATUS](https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00F7FF?style=for-the-badge)
+![FOCUS](https://img.shields.io/badge/FOCUS-MERN_+_AI-FF6B00?style=for-the-badge)
+![VIBE](https://img.shields.io/badge/VIBE-HIGH_ENERGY-FFE600?style=for-the-badge)
 
 </div>
 
 ---
 
-<div align="center">
-
-# ⚡ DIGITAL CREATOR • PROBLEM SOLVER • BUILDER
-
-</div>
+# 🧠 SYSTEM INFO
 
 <table>
 <tr>
-<td width="58%">
+<td width="55%">
 
-## 👨‍💻 About Me
+```yaml
+name: Gaurav
 
-```js
-const gaurav = {
-  title: "Creative Developer",
+role:
+  - UI/UX Designer
+  - Full Stack Developer
+  - AI Explorer
 
-  workingOn: "Collabrix 🚀",
+currently_building:
+  - Collabrix
 
-  skills: [
-    "UI/UX",
-    "React",
-    "Node.js",
-    "MongoDB",
-    "AI"
-  ],
+learning:
+  - Backend Systems
+  - AI Agents
+  - Scalable Architecture
 
-  currentlyLearning: [
-    "Backend Systems",
-    "AI Agents",
-    "Scalable Apps"
-  ],
+tech_stack:
+  - React
+  - Node.js
+  - MongoDB
+  - TailwindCSS
+  - Python
 
-  mindset:
-   "Build products that people remember ✨"
-};
+mindset:
+  "Build products people remember ⚡"
 ```
 
 </td>
 
-<td width="42%">
+<td width="45%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
+```txt
+⚡ SYSTEM STATUS
+
+Frontend      ████████████████
+UI/UX         ██████████████
+Backend       █████████░░░░░
+AI            ████████░░░░░░
+DSA           ███████████░░░
+
+STATUS        ONLINE
+MODE          BUILDING
+ENERGY        MAXIMUM
+```
 
 </td>
 </tr>
@@ -69,121 +77,126 @@ const gaurav = {
 
 ---
 
+# ⚒️ TECH ARSENAL
+
 <div align="center">
 
-# 🌐 CONNECT WITH ME
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 <br>
 
-<a href="https://www.linkedin.com/in/gaurav-829829349/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0ea5e9"/>
-</a>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=22C55E)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=22C55E)
 
-<a href="https://leetcode.com/u/gouravkumar42242/">
-<img src="https://img.shields.io/badge/LEETCODE-111827?style=for-the-badge&logo=leetcode&logoColor=f59e0b"/>
-</a>
+<br>
 
-<a href="https://www.geeksforgeeks.org/profile/gouravkumjwo6">
-<img src="https://img.shields.io/badge/GFG-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e"/>
-</a>
-
-<a href="mailto:Gouravkumar42242@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=ef4444"/>
-</a>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FACC15)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3B82F6)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
 
+# 🌐 CONNECT
+
 <div align="center">
 
-# ⚒️ TECH STACK
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/gaurav-829829349/)
 
-<br>
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FF6B00)](https://leetcode.com/u/gouravkumar42242/)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,python,cpp,figma,git,github,vscode,postman&theme=dark"/>
+[![GFG](https://img.shields.io/badge/GFG-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF88)](https://www.geeksforgeeks.org/profile/gouravkumjwo6)
+
+[![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=FF3B3B)](mailto:Gouravkumar42242@gmail.com)
 
 </div>
 
 ---
 
+# 📊 PERFORMANCE METRICS
+
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+<img width="48%" src="https://streak-stats.demolab.com?user=gaurav05505&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=ffffff"/>
 
-<br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav05505&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=ffffff"/>
+<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=gaurav05505&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 <br><br>
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=00F7FF&line=FF6B00&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-# 🚀 CURRENT MISSION
-
-</div>
-
-<div align="center">
-
-| 🚧 PROJECT | ⚡ STATUS | 🛠️ TECH |
-|---|---|---|
-| **Collabrix** | 🔥 Building | MERN Stack |
-| **Backend Journey** | 📚 Learning | Express · APIs |
-| **DSA Grind** | ⚔️ Active | C++ |
-| **AI Projects** | 🤖 Exploring | Python · LLMs |
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
-<br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=gaurav05505&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-<div align="center">
 
 # 🐍 CONTRIBUTION SNAKE
 
-<br>
+<div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
+# 🚀 CURRENT QUESTS
+
 <div align="center">
 
-# 💭 DEVELOPER PHILOSOPHY
-
-### *"Design isn't decoration — it's intelligence in visual form."*
+| PROJECT | STATUS | MODE |
+|---|---|---|
+| 🚀 Collabrix | Building | Full Power |
+| ⚡ Backend Mastery | Learning | Grinding |
+| 🤖 AI Experiments | Exploring | Active |
+| 🧠 DSA | Daily | Locked In |
 
 </div>
 
 ---
 
+# ⚡ CODING ENERGY
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gaurav05505&style=for-the-badge&color=7c3aed"/>
+```txt
+███████████████████████████████░░░░  90%
 
-<br><br>
+Frontend        ████████████████
+UI/UX           ██████████████
+Backend         █████████░░░░░
+AI              ████████░░░░░░
+DSA             ███████████░░░
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,35:7c3aed,70:06b6d4,100:0ea5e9&section=footer"/>
+</div>
+
+---
+
+# ⚡ DEV PHILOSOPHY
+
+<div align="center">
+
+```txt
+> Design should hit different.
+> Code should feel smooth.
+> Products should create dopamine.
+```
+
+</div>
+
+---
+
+# 👀 PROFILE VIEWS
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav05505&style=for-the-badge&color=00F7FF)
 
 </div>
