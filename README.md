@@ -4,68 +4,71 @@
 
 # 👋 Hi, I'm Gaurav
 
-### UI/UX Designer • Full Stack Developer • Gen AI Explorer
+### Building Products • Designing Experiences • Exploring AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+real-world+products+🚀;Crafting+beautiful+interfaces+✨;Exploring+AI+%2B+Automation+🤖;Currently+building+Collabrix+🔥;Open+to+collaborations+💡" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Automating+ideas+into+products+⚡;Building+beautiful+user+experiences+✨;Full+Stack+%2B+AI+Explorer+🤖;Currently+crafting+Collabrix+🔥" />
 
-<br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f172a,100:06b6d4&height=220&section=header&text=GAURAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav05505&theme=tokyonight"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 # ✨ About Me
+
+</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
-```javascript
+### 👨‍💻 Developer Profile
+
+```js
 const gaurav = {
   role: [
     "UI/UX Designer",
     "Frontend Developer",
-    "Gen AI Explorer"
+    "AI Explorer"
   ],
 
-  currentProject: "Collabrix",
+  currentFocus: "Building Collabrix",
 
-  currentlyLearning: [
+  learning: [
     "Backend Development",
     "System Design",
     "AI Agents"
   ],
 
-  techStack: [
+  expertise: [
     "React",
+    "UI Systems",
     "Node.js",
-    "MongoDB",
-    "TailwindCSS",
-    "Python"
+    "Design Thinking"
   ],
 
-  askMeAbout: [
-    "UI/UX",
-    "Frontend",
-    "AI",
-    "React",
-    "DSA"
+  hobbies: [
+    "Building Products",
+    "Designing Interfaces",
+    "Exploring AI"
   ],
 
   funFact:
-   "I turn caffeine into scalable interfaces ☕"
+   "I make interfaces look simple and code look magical ✨"
 };
 ```
 
 </td>
 
-<td width="45%">
+<td width="42%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </td>
 </tr>
@@ -75,112 +78,90 @@ const gaurav = {
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
+# 🌐 Connect With Me
+
 <a href="https://www.linkedin.com/in/gaurav-829829349/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://leetcode.com/u/gouravkumar42242/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/gouravkumjwo6">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/gaurav">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<img src="https://img.shields.io/badge/GFG-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=00C853"/>
 </a>
 
 <a href="mailto:Gouravkumar42242@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
 ---
 
-# ⚒️ Tech Arsenal
-
 <div align="center">
 
-### 🎨 Frontend
+# ⚒️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css"/>
+<br>
 
-<br/><br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-
-<br/><br/>
-
-### 🎯 Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman"/>
-
-<br/><br/>
-
-### 🧠 Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,python,cpp,figma,git,github,vscode&perline=7"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurav05505&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav05505&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav05505&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=f59e0b&currStreakLabel=ffffff"/>
+<br><br>
 
-</div>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurav05505&theme=tokyonight&utcOffset=5.5"/>
 
-<br/>
+<br><br>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav05505&bg_color=0d1117&color=38BDF8&line=A855F7&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Current Focus
-
 <div align="center">
 
-| 🚧 Project | ⚡ Status | 🛠️ Tech |
+# 🚀 Current Projects
+
+| 🚧 Project | ⚡ Status | 🛠️ Stack |
 |---|---|---|
-| **Collabrix** | 🔥 Building | React · Node · MongoDB |
-| **Backend Mastery** | 📚 Learning | Express · APIs · Auth |
+| **Collabrix** | 🔥 Building | React · Node.js · MongoDB |
+| **Backend Mastery** | 📚 Learning | APIs · Auth · Express |
 | **DSA Grind** | ⚔️ Active | C++ · LeetCode |
-| **Gen AI Projects** | 🤖 Exploring | Python · LLMs |
+| **Gen AI Experiments** | 🤖 Exploring | Python · LLMs |
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav05505&theme=radical&no-frame=true&margin-w=12&margin-h=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav05505&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Snake
-
 <div align="center">
+
+# 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -188,24 +169,22 @@ const gaurav = {
 
 ---
 
-# 💭 Developer Quote
-
 <div align="center">
 
-### *"Good design creates trust. Great engineering creates impact."*
+# 💭 Philosophy
+
+### *"Design is intelligence made visible."*
 
 </div>
 
 ---
 
-# 👀 Profile Views
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gaurav05505&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=gaurav05505&style=for-the-badge&color=38BDF8"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f172a,100:06b6d4&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:38BDF8&height=160&section=footer"/>
 
 </div>
